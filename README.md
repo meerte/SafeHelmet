@@ -1,4 +1,13 @@
 # SafeHelmet
+My friend, @UgurcanCirak, and I, @meerte, developed a graduation project through a collaborative effort. We designed, and developed the project together. This project is the result of our teamwork and dedication.
+
+## TECHNOLOGIES USED
+* YOLOv8
+* RoboFlow
+* 
+
+
+## FEATURE OF THE PROJECT
 ### This is the confusion matrix of our model.
 
 ![confusion_matrix](https://github.com/meerte/SafeHelmet/assets/78919954/b67ca5b5-464a-4777-b070-fa02c6ed60dd)
