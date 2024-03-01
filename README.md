@@ -1,5 +1,5 @@
 # SafeHelmet
-My friend, @UgurcanCirak, and I, @meerte, developed a graduation project through a collaborative effort. We designed, and developed the project together. This project is the result of our teamwork and dedication.
+My friend, @UgurcanCirak, and I, [@meerte](https://github.com/meerte), developed a graduation project through a collaborative effort. We designed, and developed the project together. This project is the result of our teamwork and dedication.
 
 ## TECHNOLOGIES USED
 * YOLOv8
