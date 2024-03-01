@@ -1,9 +1,9 @@
 # SafeHelmet
-###This is the confusion matrix of our model.
+### This is the confusion matrix of our model.
 
 ![confusion_matrix](https://github.com/meerte/SafeHelmet/assets/78919954/b67ca5b5-464a-4777-b070-fa02c6ed60dd)
 
-###There are some outputs of our model:
+### There are some outputs of our model:
 
 
 ![3](https://github.com/meerte/SafeHelmet/assets/78919954/03c8650e-1677-4d5e-8a19-68a430582061)
